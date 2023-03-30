@@ -1,0 +1,6 @@
+nltk
+pandas
+requests
+scikit_learn
+streamlit
+
